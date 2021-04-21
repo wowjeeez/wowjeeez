@@ -14,4 +14,5 @@ All my relevant experience: <br>
 -MySQL <br>
 -PostgreSQL <br>
 -JSON documents as database <br>
--Bunch of other useless frameworks
+-Bunch of other useless frameworks <br>
+-Managing applications at scale <br>

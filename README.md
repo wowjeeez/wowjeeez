@@ -1,8 +1,8 @@
 ### Hey there 👋
 I mainly do backend programming (C#, Lua, Nodejs with TypeScript, etc) but sometimes,I touch React and make awful UIs. <br>
 Nowadays I usually do web development with React and Express. <br>
-TS ❤
-All my relevant experience:
+TS ❤ <br>
+All my relevant experience: <br>
 -React <br>
 -JavaScript <br>
 -TypeScript <br>

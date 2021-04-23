@@ -19,3 +19,5 @@ All my relevant experience: <br>
 -Managing applications at scale <br>
 -Google Cloud Platform<br>
 -Cloudflare<br>
+-Serveral software patterns and architectures<br>
+-Severe nicotine addiction <br>

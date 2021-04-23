@@ -6,7 +6,7 @@ All my relevant experience: <br>
 -React <br>
 -JavaScript <br>
 -TypeScript <br>
--C# <br>
+-Basic C# <br>
 -Lua <br>
 -Express <br>
 -HTML/CSS <br>

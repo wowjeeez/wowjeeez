@@ -19,3 +19,5 @@ All my relevant experience: <br>
 -Managing applications at scale <br>
 -Google Cloud Platform<br>
 -Cloudflare<br>
+#
+I'm mainly involved in the FiveM community, I usually help with projects around it, or run my own ones.

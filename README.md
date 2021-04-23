@@ -6,11 +6,12 @@ All my relevant experience: <br>
 -React <br>
 -JavaScript <br>
 -TypeScript <br>
+-C# <br>
+-Lua <br>
 -Express <br>
 -HTML/CSS <br>
 -Node.js <br>
 -jQuery (I'm not sure if I'm proud of that) <br>
--C# <br>
 -MySQL <br>
 -PostgreSQL <br>
 -JSON documents as database <br>

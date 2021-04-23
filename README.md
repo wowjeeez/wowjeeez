@@ -16,3 +16,5 @@ All my relevant experience: <br>
 -JSON documents as database <br>
 -Bunch of other useless frameworks <br>
 -Managing applications at scale <br>
+-Google Cloud Platform
+-CloudFlare

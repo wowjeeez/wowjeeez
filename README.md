@@ -18,6 +18,5 @@ All my relevant experience: <br>
 -Bunch of other useless frameworks <br>
 -Managing applications at scale <br>
 -Google Cloud Platform<br>
--Cloudflare<br>
 -Serveral software patterns and architectures<br>
 -Severe nicotine addiction <br>

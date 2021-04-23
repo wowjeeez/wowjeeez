@@ -1,5 +1,6 @@
 ### Hey there 👋
 I'm mainly involved in the FiveM community, I usually help with projects around it, or run my own ones. <br>
+I favorize backend. <br>
 TS ❤ <br>
 All my relevant experience: <br>
 -React <br>

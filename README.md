@@ -1,7 +1,8 @@
 ### Hey there 👋
 I'm mainly involved in the FiveM community, I usually help with projects around it, or run my own ones. <br>
 I favorize backend. <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LedAndris)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LedAndris)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LedAndris&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 TS ❤ <br>
 All my relevant experience: <br>
 -React <br>

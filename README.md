@@ -11,7 +11,7 @@ All my relevant experience: <br>
 -Express <br>
 -HTML/CSS <br>
 -Node.js <br>
--Prisma orm <br>
+-Prisma ORM <br>
 -jQuery (I'm not sure if I'm proud of that) <br>
 -MySQL <br>
 -PostgreSQL <br>

@@ -21,4 +21,4 @@ All my relevant experience: <br>
 -Google Cloud Platform<br>
 -Severe nicotine addiction <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LedAndris&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowjeeez&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>

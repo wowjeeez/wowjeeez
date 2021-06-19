@@ -3,7 +3,7 @@ I'm mainly involved in the [FiveM](https://github.com/citizenfx/fivem) community
 I favorize backend. <br>
 TS ❤ <br>
 All my relevant experience: <br>
--React <br>
+-React (Recoil, MUI etc)<br>
 -JavaScript <br>
 -TypeScript <br>
 -Basic C# <br>

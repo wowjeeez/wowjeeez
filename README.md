@@ -13,6 +13,5 @@ Relevant experience: <br>
 -Bunch of other frameworks <br>
 -Managing applications at scale <br>
 -Google Cloud Platform, AWS, DigitalOcean, Heroku<br>
--Severe nicotine addiction <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowjeeez&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>

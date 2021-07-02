@@ -1,6 +1,6 @@
 ### Hey there 👋
 Relevant experience: <br>
--Backend frameworks, libraries (Express, Koa, Next.js, Nestjs, Luvit, Lapis, Connect, Lodash) <br>
+-Server-side node frameworks, libraries (Express, Koa, Next.js, Nestjs, Luvit, Lapis, Connect, Lodash) <br>
 -Frontend frameworks, libraries (React, MUI, Recoil, Tailwind, Headless-ui) <br> 
 -JS/TS <br>
 -Basic C# <br>

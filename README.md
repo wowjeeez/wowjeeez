@@ -5,7 +5,7 @@ Relevant experience: <br>
 -JS/TS <br>
 -Basic C# <br>
 -Lua <br>
--Databases (MySQL, Postgres, JSON documents) 
+-Databases (MySQL, Postgres, JSON documents) <br>
 -Bunch of other frameworks/libraries <br>
 -Managing applications at scale <br>
 -Google Cloud Platform, AWS, DigitalOcean, Heroku, Cloudflare<br>

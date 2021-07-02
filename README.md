@@ -1,17 +1,16 @@
 ### Hey there 👋
 Relevant experience: <br>
--React (Recoil, MUI etc)<br>
+-Backend frameworks, libraries (Express, Koa, Next.js, Nestjs, Luvit, Lapis, Connect, Lodash) <br>
+-Frontend frameworks, libraries (React, MUI, Recoil, Tailwind, Headless-ui) <br> 
 -JS/TS <br>
 -Basic C# <br>
 -Lua <br>
 -Express <br>
 -Prisma ORM <br>
--MySQL <br>
--PostgreSQL <br>
--Bunch of other frameworks <br>
+-Databases (MySQL, Postgres, JSON documents) 
+-Bunch of other frameworks/libraries <br>
 -Managing applications at scale <br>
--Google Cloud Platform, AWS, DigitalOcean, Heroku<br>
-
+-Google Cloud Platform, AWS, DigitalOcean, Heroku, Cloudflare<br>
 
 I favorize backend. <br>
 

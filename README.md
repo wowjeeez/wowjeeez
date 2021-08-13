@@ -1,6 +1,6 @@
 ### Hey there 👋
 Relevant experience: <br>
--Server-side node frameworks, libraries (Express, Koa, Next.js, Nestjs, Luvit, Lapis, Connect, Prisma ORM, TypeORM) <br>
+-Server-side node frameworks, libraries (Express, Koa, Fastify, Next.js, Nestjs, Luvit, Lapis, Connect, Prisma ORM, TypeORM) <br>
 -Frontend frameworks, libraries (React, MUI, Recoil, Tailwindcss, Headless-ui) <br> 
 -JS/TS <br>
 -Basic C# <br>

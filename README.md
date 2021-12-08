@@ -4,7 +4,7 @@ Relevant experience: <br>
 -Frontend frameworks, libraries (React, MUI, Recoil, Tailwindcss, Headless-ui) <br> 
 -JS/TS <br>
 -Basic C# <br>
--Basic Rust <br>
+-Rust <br>
 -Lua <br>
 -Databases (MySQL, Postgres, JSON documents) <br>
 -Managing applications at scale <br>

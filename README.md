@@ -10,9 +10,7 @@ Relevant experience: <br>
 - Managing applications at scale
 - Google Cloud Platform, AWS, DigitalOcean, Heroku, Cloudflare
 ### Notes
-- I find enjoyement in creating very extreme TypeScript types.
-
-If you want to see **INSANE** TypeScript types then [click here](https://github.com/wowjeeez/fivem-kv/blob/master/server/core/database.ts). <br>
+- I find enjoyement in creating very extreme TypeScript types (for an example, [click here](https://github.com/wowjeeez/fivem-kv/blob/master/server/core/database.ts)).
 
 I favorize backend. <br>
 

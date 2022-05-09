@@ -11,7 +11,7 @@ Relevant experience: <br>
 -Google Cloud Platform, AWS, DigitalOcean, Heroku, Cloudflare<br>
 
 
-If you want to see **INSANE** types then [click here](https://github.com/wowjeeez/fivem-kv/blob/master/server/core/database.ts). <br>
+If you want to see **INSANE** TypeScript types then [click here](https://github.com/wowjeeez/fivem-kv/blob/master/server/core/database.ts). <br>
 
 I favorize backend. <br>
 

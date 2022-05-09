@@ -1,15 +1,16 @@
 ### Ahoy👋
 Relevant experience: <br>
--Server-side frameworks, libraries (Express, Koa, Fastify, Next.js, Nestjs, Luvit, Lapis, Connect, Prisma ORM, TypeORM) <br>
--Frontend frameworks, libraries (React, MUI, Recoil, Tailwindcss, Headless-ui) <br> 
--JS/TS <br>
--Basic C# <br>
--Rust <br>
--Lua <br>
--Databases (MySQL, Postgres, JSON documents) <br>
--Managing applications at scale <br>
--Google Cloud Platform, AWS, DigitalOcean, Heroku, Cloudflare<br>
-
+- Server-side frameworks, libraries (Express, Koa, Fastify, Next.js, Nestjs, Luvit, Lapis, Connect, Prisma ORM, TypeORM)
+- Frontend frameworks, libraries (React, MUI, Recoil, Tailwindcss, Headless-ui)
+- JS/TS
+- Basic C#
+- Rust
+- Lua
+- Databases (MySQL, Postgres, JSON documents)
+- Managing applications at scale
+- Google Cloud Platform, AWS, DigitalOcean, Heroku, Cloudflare
+### Notes
+- I find enjoyement in creating very extreme TypeScript types.
 
 If you want to see **INSANE** TypeScript types then [click here](https://github.com/wowjeeez/fivem-kv/blob/master/server/core/database.ts). <br>
 

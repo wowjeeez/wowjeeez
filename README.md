@@ -4,7 +4,7 @@ Relevant experience: <br>
 - Frontend frameworks, libraries (React, MUI, Recoil, Tailwindcss, Headless-ui)
 - JS/TS
 - Basic C#
-- Basic Kotlin
+- Kotlin
 - Rust
 - Lua
 - Databases (MySQL, Postgres, JSON documents)

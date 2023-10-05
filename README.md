@@ -1,7 +1,7 @@
 ### Ahoy👋
 Relevant experience: <br>
 - Server-side frameworks, libraries (Express, Koa, Fastify, Next.js, Nestjs, Luvit, Lapis, Connect, Prisma ORM, TypeORM)
-- Frontend frameworks, libraries (React, MUI, Recoil, Tailwindcss, Headless-ui)
+- Frontend frameworks, libraries (React, MUI, Recoil, Tailwindcss, Headless-ui, Chakra)
 - JS/TS
 - Basic C#
 - Kotlin

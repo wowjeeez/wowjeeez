@@ -1,7 +1,7 @@
 ### Ahoy👋
 Relevant experience: <br>
 - Server-side frameworks, libraries (Express, Koa, Fastify, Next.js, Nestjs, Luvit, Lapis, Connect, Prisma ORM, TypeORM)
-- Frontend frameworks, libraries (React, MUI, Recoil, Tailwindcss, Headless-ui, Chakra)
+- Frontend frameworks, libraries (React, Angular, MUI, Recoil, Tailwindcss, Headless-ui, Chakra)
 - JS/TS
 - Basic C#
 - Kotlin
@@ -11,7 +11,7 @@ Relevant experience: <br>
 - Managing applications at scale
 - Google Cloud Platform, AWS, DigitalOcean, Heroku, Cloudflare
 ### Notes
-- I find enjoyement in creating very extreme TypeScript types (for an example, [click here](https://github.com/wowjeeez/fivem-kv/blob/master/server/core/database.ts)).
+- I find enjoyment in creating very extreme TypeScript types (for an example, [click here](https://github.com/wowjeeez/fivem-kv/blob/master/server/core/database.ts)).
 
 I favorize backend. <br>
 

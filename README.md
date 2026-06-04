@@ -6,4 +6,3 @@ Currently mainly enjoying low level programming, devexp, network programming and
 
 I favorize backend, architecture and unorthodox solutions. <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowjeeez&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
